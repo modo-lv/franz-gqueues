@@ -1,0 +1,13 @@
+{
+  "id": "gqueues",
+  "name": "GQueues",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "modo.lv",
+  "license": "MIT",
+  "repository": "https://github.com/modo-lv/franz-gqueues",
+  "config": {
+    "serviceURL": "https://www.gqueues.com/",
+    "hasTeamId": false
+  }
+}
