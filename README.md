@@ -1,2 +1,1 @@
-# franz-gqueues
-GQueues service for Franz &amp; Ferdi.
+# GQueues for [Franz](http://meetfranz.com) & [Ferdi](http://getferdi.com)
